@@ -25,6 +25,6 @@ ESP32의 IR센서가 빈 강의실 내부의 이용 정보를 수집하고 이�
 
 저희의 코드는 아래 레포지토리에서 확인 가능합니다.<br><br>
 
-<a herf="https://github.com/ICE1002-TEAM-NFT/ESP32"><h4>ESP32</h4></a>
+<a herf="https://github.com/ICE1002-TEAM-NFT/ESP32">ESP32</a>
 <a herf="https://github.com/ICE1002-TEAM-NFT/PioneerDeploy"><h4>B/E Server</h4></a>
 <a herf="https://github.com/ICE1002-TEAM-NFT/web"><h4>F/E Web_HomePage</h4></a>
